@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "egFe7phW51YXQ6SRrHkto3fFuDw4KPP43Nkvft+RbD7RlSE33ecYPHJCrOWOTgwd3nFgalsUqFOUUX353yASUg==",
+  "dgSpecHash": "HoFXkPTnvbsZ1fd/HwlEIM0STwWRPZRDkHYFO5GFA2rc0I1i0WyNnZrKVRRLLh7NshkCUnTvpEerXO9NPASDGA==",
   "success": true,
-  "projectFilePath": "F:\\SG_38\\SarojG\\server\\server.csproj",
+  "projectFilePath": "F:\\SG_38\\Minimal API\\MinimalAPI\\server\\server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gurag\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gurag\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -2687,11 +2687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SG_38\\SarojG\\server\\server.csproj",
+      "projectUniqueName": "F:\\SG_38\\Minimal API\\MinimalAPI\\server\\server.csproj",
       "projectName": "server",
-      "projectPath": "F:\\SG_38\\SarojG\\server\\server.csproj",
+      "projectPath": "F:\\SG_38\\Minimal API\\MinimalAPI\\server\\server.csproj",
       "packagesPath": "C:\\Users\\gurag\\.nuget\\packages\\",
-      "outputPath": "F:\\SG_38\\SarojG\\server\\obj\\",
+      "outputPath": "F:\\SG_38\\Minimal API\\MinimalAPI\\server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gurag\\AppData\\Roaming\\NuGet\\NuGet.Config",
